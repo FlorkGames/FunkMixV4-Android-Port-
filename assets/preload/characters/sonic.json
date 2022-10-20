@@ -3,120 +3,132 @@
 		{
 			"loop": false,
 			"offsets": [
-				117,
-				112
+				0,
+				0
 			],
+			"anim": "idle",
 			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "sonic Up"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				120,
-				111
-			],
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "sonic Left"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				120,
-				110
-			],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sonic Right"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				121,
-				111
-			],
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "sonic Down"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				120,
-				110
-			],
-			"fps": 24,
-			"anim": "firstDeath",
-			"indices": [],
-			"name": "sonic Sonic dies"
-		},
-		{
-			"offsets": [
-				120,
-				110
-			],
-			"anim": "deathLoop",
-			"loop": true,
-			"fps": 24,
-			"name": "sonic Dead Loop",
+			"name": "Sonic idle",
 			"indices": []
 		},
 		{
 			"loop": false,
-			"offsets": [ 
-				120, 
-				110
+			"offsets": [
+				8,
+				3
 			],
+			"anim": "singLEFT",
 			"fps": 24,
+			"name": "Sonic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sonic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sonic up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "GAME OVER",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				-14
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "GAME OVER loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-10
+			],
 			"anim": "deathConfirm",
-			"indices": [],
-			"name": "sonic death Confirm"
+			"fps": 24,
+			"name": "GAME OVER enter",
+			"indices": []
 		},
 		{
 			"offsets": [
-				120,
-				110
+				-29,
+				-1
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
-			"anim": "idle",
-			"loop": true,
-			"name": "sonic Idle"
-		},
-		{
-			"offsets": [
-				120,
-				110
+			"anim": "singRIGHT",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
 			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle-alt",
-			"loop": true,
-			"name": "sonic alt"
+			"name": "Sonic right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/sonic",
+	"image": "characters/sonic fw",
 	"position": [
-		10,
+		100,
 		160
 	],
-	"healthicon": "sonic",
+	"healthicon": "sonic icons",
 	"flip_x": true,
 	"healthbar_colors": [
-		100,
-		100,
-		255
+		40,
+		66,
+		137
 	],
 	"camera_position": [
-		250,
-		-55
+		-170,
+		-40
 	],
-	"sing_duration": 4,
-	"scale": 2
+	"sing_duration": 6.1,
+	"scale": 2.2
 }
