@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="skeleton.png" width="2027" height="796">
+	<SubTexture name="Skeleton Idle0000.png" x="2" y="2" width="161" height="229" frameX="0" frameY="-6" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0001.png" x="2" y="2" width="161" height="229" frameX="0" frameY="-6" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0002.png" x="171" y="2" width="159" height="231" frameX="-2" frameY="-4" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0003.png" x="171" y="2" width="159" height="231" frameX="-2" frameY="-4" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0004.png" x="337" y="2" width="158" height="234" frameX="-3" frameY="-1" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0005.png" x="337" y="2" width="158" height="234" frameX="-3" frameY="-1" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0006.png" x="503" y="2" width="157" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0007.png" x="503" y="2" width="157" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0008.png" x="667" y="2" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0009.png" x="667" y="2" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0010.png" x="831" y="2" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0011.png" x="831" y="2" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0012.png" x="831" y="2" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton Idle0013.png" x="831" y="2" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="Skeleton NOTE DOWN0000.png" x="995" y="2" width="118" height="107" frameX="0" frameY="-4" frameWidth="118" frameHeight="111"/>
+	<SubTexture name="Skeleton NOTE DOWN0001.png" x="995" y="2" width="118" height="107" frameX="0" frameY="-4" frameWidth="118" frameHeight="111"/>
+	<SubTexture name="Skeleton NOTE DOWN0002.png" x="1121" y="2" width="114" height="111" frameX="-2" frameY="0" frameWidth="118" frameHeight="111"/>
+	<SubTexture name="Skeleton NOTE DOWN0003.png" x="1121" y="2" width="114" height="111" frameX="-2" frameY="0" frameWidth="118" frameHeight="111"/>
+	<SubTexture name="Skeleton NOTE DOWN0004.png" x="1121" y="2" width="114" height="111" frameX="-2" frameY="0" frameWidth="118" frameHeight="111"/>
+	<SubTexture name="Skeleton NOTE LEFT0000.png" x="1242" y="2" width="217" height="236" frameX="0" frameY="-3" frameWidth="221" frameHeight="239"/>
+	<SubTexture name="Skeleton NOTE LEFT0001.png" x="1242" y="2" width="217" height="236" frameX="0" frameY="-3" frameWidth="221" frameHeight="239"/>
+	<SubTexture name="Skeleton NOTE LEFT0002.png" x="1467" y="2" width="216" height="239" frameX="-5" frameY="0" frameWidth="221" frameHeight="239"/>
+	<SubTexture name="Skeleton NOTE LEFT0003.png" x="1467" y="2" width="216" height="239" frameX="-5" frameY="0" frameWidth="221" frameHeight="239"/>
+	<SubTexture name="Skeleton NOTE LEFT0004.png" x="1467" y="2" width="216" height="239" frameX="-5" frameY="0" frameWidth="221" frameHeight="239"/>
+	<SubTexture name="Skeleton NOTE Right0000.png" x="1691" y="2" width="178" height="235"/>
+	<SubTexture name="Skeleton NOTE Right0001.png" x="1691" y="2" width="178" height="235"/>
+	<SubTexture name="Skeleton NOTE Right0002.png" x="2" y="249" width="173" height="235" frameX="0" frameY="-1" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="Skeleton NOTE Right0003.png" x="2" y="249" width="173" height="235" frameX="0" frameY="-1" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="Skeleton NOTE Right0004.png" x="2" y="249" width="173" height="235" frameX="0" frameY="-1" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="Skeleton NOTE UP0000.png" x="183" y="249" width="198" height="270" frameX="0" frameY="0" frameWidth="200" frameHeight="270"/>
+	<SubTexture name="Skeleton NOTE UP0001.png" x="183" y="249" width="198" height="270" frameX="0" frameY="0" frameWidth="200" frameHeight="270"/>
+	<SubTexture name="Skeleton NOTE UP0002.png" x="389" y="249" width="195" height="266" frameX="-5" frameY="-4" frameWidth="200" frameHeight="270"/>
+	<SubTexture name="Skeleton NOTE UP0003.png" x="389" y="249" width="195" height="266" frameX="-5" frameY="-4" frameWidth="200" frameHeight="270"/>
+	<SubTexture name="Skeleton NOTE UP0004.png" x="389" y="249" width="195" height="266" frameX="-5" frameY="-4" frameWidth="200" frameHeight="270"/>
+	<SubTexture name="SkeletonE Idle0000.png" x="592" y="249" width="161" height="229" frameX="0" frameY="-6" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0001.png" x="592" y="249" width="161" height="229" frameX="0" frameY="-6" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0002.png" x="761" y="249" width="159" height="231" frameX="-2" frameY="-4" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0003.png" x="761" y="249" width="159" height="231" frameX="-2" frameY="-4" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0004.png" x="927" y="249" width="158" height="234" frameX="-3" frameY="-1" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0005.png" x="927" y="249" width="158" height="234" frameX="-3" frameY="-1" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0006.png" x="1093" y="249" width="157" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0007.png" x="1093" y="249" width="157" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0008.png" x="1257" y="249" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0009.png" x="1257" y="249" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0010.png" x="1421" y="249" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0011.png" x="1421" y="249" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0012.png" x="1421" y="249" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE Idle0013.png" x="1421" y="249" width="156" height="235" frameX="-3" frameY="0" frameWidth="161" frameHeight="235"/>
+	<SubTexture name="SkeletonE NOTE DOWN0000.png" x="995" y="2" width="118" height="107" frameX="0" frameY="-4" frameWidth="118" frameHeight="111"/>
+	<SubTexture name="SkeletonE NOTE DOWN0001.png" x="995" y="2" width="118" height="107" frameX="0" frameY="-4" frameWidth="118" frameHeight="111"/>
+	<SubTexture name="SkeletonE NOTE DOWN0002.png" x="1121" y="2" width="114" height="111" frameX="-2" frameY="0" frameWidth="118" frameHeight="111"/>
+	<SubTexture name="SkeletonE NOTE DOWN0003.png" x="1121" y="2" width="114" height="111" frameX="-2" frameY="0" frameWidth="118" frameHeight="111"/>
+	<SubTexture name="SkeletonE NOTE DOWN0004.png" x="1121" y="2" width="114" height="111" frameX="-2" frameY="0" frameWidth="118" frameHeight="111"/>
+	<SubTexture name="SkeletonE NOTE LEFT0000.png" x="1585" y="249" width="217" height="236" frameX="0" frameY="-3" frameWidth="221" frameHeight="239"/>
+	<SubTexture name="SkeletonE NOTE LEFT0001.png" x="1585" y="249" width="217" height="236" frameX="0" frameY="-3" frameWidth="221" frameHeight="239"/>
+	<SubTexture name="SkeletonE NOTE LEFT0002.png" x="1810" y="249" width="216" height="239" frameX="-5" frameY="0" frameWidth="221" frameHeight="239"/>
+	<SubTexture name="SkeletonE NOTE LEFT0003.png" x="1810" y="249" width="216" height="239" frameX="-5" frameY="0" frameWidth="221" frameHeight="239"/>
+	<SubTexture name="SkeletonE NOTE LEFT0004.png" x="1810" y="249" width="216" height="239" frameX="-5" frameY="0" frameWidth="221" frameHeight="239"/>
+	<SubTexture name="SkeletonE NOTE Right0000.png" x="2" y="526" width="178" height="235"/>
+	<SubTexture name="SkeletonE NOTE Right0001.png" x="2" y="526" width="178" height="235"/>
+	<SubTexture name="SkeletonE NOTE Right0002.png" x="188" y="526" width="173" height="235" frameX="0" frameY="-1" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="SkeletonE NOTE Right0003.png" x="188" y="526" width="173" height="235" frameX="0" frameY="-1" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="SkeletonE NOTE Right0004.png" x="188" y="526" width="173" height="235" frameX="0" frameY="-1" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="SkeletonE NOTE UP0000.png" x="369" y="526" width="198" height="270" frameX="0" frameY="0" frameWidth="200" frameHeight="270"/>
+	<SubTexture name="SkeletonE NOTE UP0001.png" x="369" y="526" width="198" height="270" frameX="0" frameY="0" frameWidth="200" frameHeight="270"/>
+	<SubTexture name="SkeletonE NOTE UP0002.png" x="575" y="526" width="195" height="266" frameX="-5" frameY="-4" frameWidth="200" frameHeight="270"/>
+	<SubTexture name="SkeletonE NOTE UP0003.png" x="575" y="526" width="195" height="266" frameX="-5" frameY="-4" frameWidth="200" frameHeight="270"/>
+	<SubTexture name="SkeletonE NOTE UP0004.png" x="575" y="526" width="195" height="266" frameX="-5" frameY="-4" frameWidth="200" frameHeight="270"/>
+</TextureAtlas>

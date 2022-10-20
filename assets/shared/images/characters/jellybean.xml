@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jellybean.png" width="2006" height="1573">
+	<SubTexture name="JellyBean Idle0000.png" x="2" y="2" width="170" height="298" frameX="0" frameY="-6" frameWidth="170" frameHeight="303"/>
+	<SubTexture name="JellyBean Idle0001.png" x="2" y="2" width="170" height="298" frameX="0" frameY="-6" frameWidth="170" frameHeight="303"/>
+	<SubTexture name="JellyBean Idle0002.png" x="180" y="2" width="170" height="301" frameX="0" frameY="-3" frameWidth="170" frameHeight="303"/>
+	<SubTexture name="JellyBean Idle0003.png" x="180" y="2" width="170" height="301" frameX="0" frameY="-3" frameWidth="170" frameHeight="303"/>
+	<SubTexture name="JellyBean Idle0004.png" x="358" y="2" width="170" height="303"/>
+	<SubTexture name="JellyBean Idle0005.png" x="358" y="2" width="170" height="303"/>
+	<SubTexture name="JellyBean Idle0006.png" x="536" y="2" width="170" height="303"/>
+	<SubTexture name="JellyBean Idle0007.png" x="536" y="2" width="170" height="303"/>
+	<SubTexture name="JellyBean Idle0008.png" x="714" y="2" width="170" height="303"/>
+	<SubTexture name="JellyBean Idle0009.png" x="714" y="2" width="170" height="303"/>
+	<SubTexture name="JellyBean Idle0010.png" x="892" y="2" width="170" height="303"/>
+	<SubTexture name="JellyBean Idle0011.png" x="892" y="2" width="170" height="303"/>
+	<SubTexture name="JellyBean Idle0012.png" x="892" y="2" width="170" height="303"/>
+	<SubTexture name="JellyBean Idle0013.png" x="892" y="2" width="170" height="303"/>
+	<SubTexture name="JellyBean MISS Down0000.png" x="1070" y="2" width="170" height="295" frameX="0" frameY="-12" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Down0001.png" x="1248" y="2" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Down0002.png" x="1248" y="2" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Down0003.png" x="1426" y="2" width="170" height="303" frameX="0" frameY="-4" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Down0004.png" x="1426" y="2" width="170" height="303" frameX="0" frameY="-4" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Down0005.png" x="1604" y="2" width="170" height="303" frameX="0" frameY="-4" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Down0006.png" x="1604" y="2" width="170" height="303" frameX="0" frameY="-4" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Down0007.png" x="1426" y="2" width="170" height="303" frameX="0" frameY="-4" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Down0008.png" x="1426" y="2" width="170" height="303" frameX="0" frameY="-4" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Down0009.png" x="1604" y="2" width="170" height="303" frameX="0" frameY="-4" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Down0010.png" x="1604" y="2" width="170" height="303" frameX="0" frameY="-4" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Down0011.png" x="1426" y="2" width="170" height="303" frameX="0" frameY="-4" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Down0012.png" x="1426" y="2" width="170" height="303" frameX="0" frameY="-4" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Down0013.png" x="1604" y="2" width="170" height="303" frameX="0" frameY="-4" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Left0000.png" x="1782" y="2" width="170" height="303" frameX="0" frameY="-3" frameWidth="170" frameHeight="305"/>
+	<SubTexture name="JellyBean MISS Left0001.png" x="2" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0002.png" x="2" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0003.png" x="180" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0004.png" x="180" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0005.png" x="358" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0006.png" x="358" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0007.png" x="180" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0008.png" x="180" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0009.png" x="358" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0010.png" x="358" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0011.png" x="180" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0012.png" x="180" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Left0013.png" x="358" y="317" width="170" height="305"/>
+	<SubTexture name="JellyBean MISS Right0000.png" x="536" y="317" width="170" height="305" frameX="0" frameY="-2" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean MISS Right0001.png" x="714" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0002.png" x="714" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0003.png" x="892" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0004.png" x="892" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0005.png" x="1070" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0006.png" x="1070" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0007.png" x="892" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0008.png" x="892" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0009.png" x="1070" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0010.png" x="1070" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0011.png" x="892" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0012.png" x="892" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Right0013.png" x="1070" y="317" width="170" height="307"/>
+	<SubTexture name="JellyBean MISS Up0000.png" x="1248" y="317" width="170" height="306" frameX="0" frameY="-2" frameWidth="170" frameHeight="308"/>
+	<SubTexture name="JellyBean MISS Up0001.png" x="1426" y="317" width="170" height="305" frameX="0" frameY="-3" frameWidth="170" frameHeight="308"/>
+	<SubTexture name="JellyBean MISS Up0002.png" x="1426" y="317" width="170" height="305" frameX="0" frameY="-3" frameWidth="170" frameHeight="308"/>
+	<SubTexture name="JellyBean MISS Up0003.png" x="1604" y="317" width="170" height="308"/>
+	<SubTexture name="JellyBean MISS Up0004.png" x="1604" y="317" width="170" height="308"/>
+	<SubTexture name="JellyBean MISS Up0005.png" x="1782" y="317" width="170" height="308"/>
+	<SubTexture name="JellyBean MISS Up0006.png" x="1782" y="317" width="170" height="308"/>
+	<SubTexture name="JellyBean MISS Up0007.png" x="1604" y="317" width="170" height="308"/>
+	<SubTexture name="JellyBean MISS Up0008.png" x="1604" y="317" width="170" height="308"/>
+	<SubTexture name="JellyBean MISS Up0009.png" x="1782" y="317" width="170" height="308"/>
+	<SubTexture name="JellyBean MISS Up0010.png" x="1782" y="317" width="170" height="308"/>
+	<SubTexture name="JellyBean MISS Up0011.png" x="1604" y="317" width="170" height="308"/>
+	<SubTexture name="JellyBean MISS Up0012.png" x="1604" y="317" width="170" height="308"/>
+	<SubTexture name="JellyBean MISS Up0013.png" x="1782" y="317" width="170" height="308"/>
+	<SubTexture name="JellyBean NOTE Down0000.png" x="1070" y="2" width="170" height="295" frameX="0" frameY="-3" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean NOTE Down0001.png" x="1070" y="2" width="170" height="295" frameX="0" frameY="-3" frameWidth="170" frameHeight="307"/>
+	<SubTexture name="JellyBean NOTE Down0002.png" x="2" y="633" width="170" height="298"/>
+	<SubTexture name="JellyBean NOTE Down0003.png" x="2" y="633" width="170" height="298"/>
+	<SubTexture name="JellyBean NOTE Down0004.png" x="2" y="633" width="170" height="298"/>
+	<SubTexture name="JellyBean NOTE Left0000.png" x="1782" y="2" width="170" height="303" frameX="0" frameY="-1" frameWidth="170" frameHeight="305"/>
+	<SubTexture name="JellyBean NOTE Left0001.png" x="1782" y="2" width="170" height="303" frameX="0" frameY="-1" frameWidth="170" frameHeight="305"/>
+	<SubTexture name="JellyBean NOTE Left0002.png" x="180" y="633" width="170" height="303"/>
+	<SubTexture name="JellyBean NOTE Left0003.png" x="180" y="633" width="170" height="303"/>
+	<SubTexture name="JellyBean NOTE Left0004.png" x="180" y="633" width="170" height="303"/>
+	<SubTexture name="JellyBean NOTE Right0000.png" x="358" y="633" width="170" height="305"/>
+	<SubTexture name="JellyBean NOTE Right0001.png" x="358" y="633" width="170" height="305"/>
+	<SubTexture name="JellyBean NOTE Right0002.png" x="536" y="633" width="170" height="305"/>
+	<SubTexture name="JellyBean NOTE Right0003.png" x="536" y="633" width="170" height="305"/>
+	<SubTexture name="JellyBean NOTE Right0004.png" x="536" y="633" width="170" height="305"/>
+	<SubTexture name="JellyBean NOTE Up0000.png" x="714" y="633" width="170" height="306"/>
+	<SubTexture name="JellyBean NOTE Up0001.png" x="714" y="633" width="170" height="306"/>
+	<SubTexture name="JellyBean NOTE Up0002.png" x="892" y="633" width="170" height="304" frameX="0" frameY="-3" frameWidth="170" frameHeight="306"/>
+	<SubTexture name="JellyBean NOTE Up0003.png" x="892" y="633" width="170" height="304" frameX="0" frameY="-3" frameWidth="170" frameHeight="306"/>
+	<SubTexture name="JellyBean NOTE Up0004.png" x="892" y="633" width="170" height="304" frameX="0" frameY="-3" frameWidth="170" frameHeight="306"/>
+	<SubTexture name="JellyBeanE Idle0000.png" x="1070" y="633" width="170" height="298" frameX="0" frameY="-6" frameWidth="170" frameHeight="303"/>
+	<SubTexture name="JellyBeanE Idle0001.png" x="1070" y="633" width="170" height="298" frameX="0" frameY="-6" frameWidth="170" frameHeight="303"/>
+	<SubTexture name="JellyBeanE Idle0002.png" x="1248" y="633" width="170" height="301" frameX="0" frameY="-3" frameWidth="170" frameHeight="303"/>
+	<SubTexture name="JellyBeanE Idle0003.png" x="1248" y="633" width="170" height="301" frameX="0" frameY="-3" frameWidth="170" frameHeight="303"/>
+	<SubTexture name="JellyBeanE Idle0004.png" x="1426" y="633" width="170" height="303"/>
+	<SubTexture name="JellyBeanE Idle0005.png" x="1426" y="633" width="170" height="303"/>
+	<SubTexture name="JellyBeanE Idle0006.png" x="1604" y="633" width="170" height="303"/>
+	<SubTexture name="JellyBeanE Idle0007.png" x="1604" y="633" width="170" height="303"/>
+	<SubTexture name="JellyBeanE Idle0008.png" x="1782" y="633" width="170" height="303"/>
+	<SubTexture name="JellyBeanE Idle0009.png" x="1782" y="633" width="170" height="303"/>
+	<SubTexture name="JellyBeanE Idle0010.png" x="2" y="947" width="170" height="303"/>
+	<SubTexture name="JellyBeanE Idle0011.png" x="2" y="947" width="170" height="303"/>
+	<SubTexture name="JellyBeanE Idle0012.png" x="2" y="947" width="170" height="303"/>
+	<SubTexture name="JellyBeanE Idle0013.png" x="2" y="947" width="170" height="303"/>
+	<SubTexture name="JellyBeanE MISS Down0000.png" x="180" y="947" width="170" height="241" frameX="0" frameY="-5" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Down0001.png" x="358" y="947" width="170" height="246"/>
+	<SubTexture name="JellyBeanE MISS Down0002.png" x="358" y="947" width="170" height="246"/>
+	<SubTexture name="JellyBeanE MISS Down0003.png" x="536" y="947" width="170" height="244" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Down0004.png" x="536" y="947" width="170" height="244" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Down0005.png" x="714" y="947" width="170" height="244" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Down0006.png" x="714" y="947" width="170" height="244" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Down0007.png" x="536" y="947" width="170" height="244" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Down0008.png" x="536" y="947" width="170" height="244" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Down0009.png" x="714" y="947" width="170" height="244" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Down0010.png" x="714" y="947" width="170" height="244" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Down0011.png" x="536" y="947" width="170" height="244" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Down0012.png" x="536" y="947" width="170" height="244" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Down0013.png" x="714" y="947" width="170" height="244" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE MISS Left0000.png" x="892" y="947" width="186" height="282" frameX="0" frameY="-2" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0001.png" x="1086" y="947" width="181" height="284" frameX="-5" frameY="0" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0002.png" x="1086" y="947" width="181" height="284" frameX="-5" frameY="0" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0003.png" x="1275" y="947" width="184" height="284" frameX="-2" frameY="0" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0004.png" x="1275" y="947" width="184" height="284" frameX="-2" frameY="0" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0005.png" x="1466" y="947" width="184" height="283" frameX="-2" frameY="-1" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0006.png" x="1466" y="947" width="184" height="283" frameX="-2" frameY="-1" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0007.png" x="1275" y="947" width="184" height="284" frameX="-2" frameY="0" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0008.png" x="1275" y="947" width="184" height="284" frameX="-2" frameY="0" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0009.png" x="1466" y="947" width="184" height="283" frameX="-2" frameY="-1" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0010.png" x="1466" y="947" width="184" height="283" frameX="-2" frameY="-1" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0011.png" x="1275" y="947" width="184" height="284" frameX="-2" frameY="0" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0012.png" x="1275" y="947" width="184" height="284" frameX="-2" frameY="0" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Left0013.png" x="1466" y="947" width="184" height="283" frameX="-2" frameY="-1" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE MISS Right0000.png" x="1658" y="947" width="170" height="290" frameX="0" frameY="-3" frameWidth="170" frameHeight="292"/>
+	<SubTexture name="JellyBeanE MISS Right0001.png" x="1836" y="947" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0002.png" x="1836" y="947" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0003.png" x="2" y="1258" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0004.png" x="2" y="1258" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0005.png" x="180" y="1258" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0006.png" x="180" y="1258" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0007.png" x="2" y="1258" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0008.png" x="2" y="1258" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0009.png" x="180" y="1258" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0010.png" x="180" y="1258" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0011.png" x="2" y="1258" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0012.png" x="2" y="1258" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Right0013.png" x="180" y="1258" width="170" height="292"/>
+	<SubTexture name="JellyBeanE MISS Up0000.png" x="358" y="1258" width="170" height="315"/>
+	<SubTexture name="JellyBeanE MISS Up0001.png" x="536" y="1258" width="170" height="308" frameX="0" frameY="-8" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0002.png" x="536" y="1258" width="170" height="308" frameX="0" frameY="-8" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0003.png" x="714" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0004.png" x="714" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0005.png" x="892" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0006.png" x="892" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0007.png" x="714" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0008.png" x="714" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0009.png" x="892" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0010.png" x="892" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0011.png" x="714" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0012.png" x="714" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE MISS Up0013.png" x="892" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE NOTE Down0000.png" x="180" y="947" width="170" height="241" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE NOTE Down0001.png" x="180" y="947" width="170" height="241" frameX="0" frameY="-3" frameWidth="170" frameHeight="246"/>
+	<SubTexture name="JellyBeanE NOTE Down0002.png" x="1070" y="1258" width="170" height="244"/>
+	<SubTexture name="JellyBeanE NOTE Down0003.png" x="1070" y="1258" width="170" height="244"/>
+	<SubTexture name="JellyBeanE NOTE Down0004.png" x="1070" y="1258" width="170" height="244"/>
+	<SubTexture name="JellyBeanE NOTE Left0000.png" x="892" y="947" width="186" height="282" frameX="0" frameY="-1" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE NOTE Left0001.png" x="892" y="947" width="186" height="282" frameX="0" frameY="-1" frameWidth="186" frameHeight="284"/>
+	<SubTexture name="JellyBeanE NOTE Left0002.png" x="1248" y="1258" width="184" height="283" frameX="-2" frameY="0" frameWidth="186" frameHeight="283"/>
+	<SubTexture name="JellyBeanE NOTE Left0003.png" x="1248" y="1258" width="184" height="283" frameX="-2" frameY="0" frameWidth="186" frameHeight="283"/>
+	<SubTexture name="JellyBeanE NOTE Left0004.png" x="1248" y="1258" width="184" height="283" frameX="-2" frameY="0" frameWidth="186" frameHeight="283"/>
+	<SubTexture name="JellyBeanE NOTE Right0000.png" x="1658" y="947" width="170" height="290" frameX="0" frameY="-1" frameWidth="170" frameHeight="292"/>
+	<SubTexture name="JellyBeanE NOTE Right0001.png" x="1658" y="947" width="170" height="290" frameX="0" frameY="-1" frameWidth="170" frameHeight="292"/>
+	<SubTexture name="JellyBeanE NOTE Right0002.png" x="1440" y="1258" width="170" height="290"/>
+	<SubTexture name="JellyBeanE NOTE Right0003.png" x="1440" y="1258" width="170" height="290"/>
+	<SubTexture name="JellyBeanE NOTE Right0004.png" x="1440" y="1258" width="170" height="290"/>
+	<SubTexture name="JellyBeanE NOTE Up0000.png" x="358" y="1258" width="170" height="315"/>
+	<SubTexture name="JellyBeanE NOTE Up0001.png" x="358" y="1258" width="170" height="315"/>
+	<SubTexture name="JellyBeanE NOTE Up0002.png" x="1618" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE NOTE Up0003.png" x="1618" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+	<SubTexture name="JellyBeanE NOTE Up0004.png" x="1618" y="1258" width="170" height="311" frameX="0" frameY="-4" frameWidth="170" frameHeight="315"/>
+</TextureAtlas>
