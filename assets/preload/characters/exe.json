@@ -2,88 +2,88 @@
 	"animations": [
 		{
 			"offsets": [
-				100,
-				104
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "laugh",
-			"indices": [],
-			"name": "exe Laugh"
-		},
-		{
-			"offsets": [
-				120,
-				110
-			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "exe Idle"
+			"name": "exe idle0"
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
-				187,
-				182
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "exe Up",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				200,
-				121
+				209,
+				10
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "exe Left",
+			"name": "exe left",
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
-				120,
-				110
+				6,
+				21
 			],
-			"anim": "singRIGHT",
+			"anim": "singUP",
 			"fps": 24,
-			"name": "exe Right",
+			"name": "exe up",
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
-				119,
-				109
+				-4,
+				10
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "exe Down",
+			"name": "exe down",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "exe right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				47,
+				99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "exe attack"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/exe",
 	"position": [
-		50,
-		70
+		0,
+		0
 	],
 	"healthicon": "exe",
 	"flip_x": false,
 	"healthbar_colors": [
-		40,
-		0,
-		115
+		36,
+		84,
+		180
 	],
 	"camera_position": [
-		170,
-		35
+		0,
+		0
 	],
-	"sing_duration": 4,
-	"scale": 2
+	"sing_duration": 6.1,
+	"scale": 0.999999999999999
 }
