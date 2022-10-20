@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ah",
+			"indices": [],
+			"name": "Skeleton AH"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				98
+			],
+			"anim": "watch",
+			"fps": 24,
+			"name": "Skeleton WATCH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "braim",
+			"fps": 24,
+			"name": "SkeletonE BRAIN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skeletonanims",
+	"position": [
+		175,
+		379
+	],
+	"healthicon": "skeleton",
+	"flip_x": false,
+	"healthbar_colors": [
+		142,
+		82,
+		89
+	],
+	"camera_position": [
+		-240,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

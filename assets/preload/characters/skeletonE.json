@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				75,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SkeletonE NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SkeletonE NOTE Right"
+		},
+		{
+			"offsets": [
+				-50,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SkeletonE NOTE DOWN"
+		},
+		{
+			"offsets": [
+				67,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SkeletonE NOTE UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "SkeletonE Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "SkeletonE Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skeleton",
+	"position": [
+		180,
+		380
+	],
+	"healthicon": "skeleton",
+	"flip_x": false,
+	"healthbar_colors": [
+		142,
+		82,
+		89
+	],
+	"camera_position": [
+		-160,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
