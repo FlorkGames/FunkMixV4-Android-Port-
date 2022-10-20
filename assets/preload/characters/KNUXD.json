@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				70,
-				-120
+				30,
+				-140
 			],
 			"indices": [],
-			"fps": 12,
+			"fps": 24,
 			"anim": "idle",
-			"loop": true,
-			"name": "knux idle"
-		},
-		{
-			"offsets": [
-				64,
-				-129
-			],
-			"indices": [],
-			"fps": 1,
-			"anim": "singUP",
 			"loop": false,
-			"name": "knux up"
+			"name": "KNUXIDLE"
 		},
 		{
 			"offsets": [
-				63,
-				-125
+				-10,
+				-240
 			],
 			"indices": [],
-			"fps": 1,
-			"anim": "singRIGHT",
-			"loop": true,
-			"name": "knux right"
-		},
-		{
-			"offsets": [
-				67,
-				-124
-			],
-			"indices": [],
-			"fps": 1,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "knux left"
-		},
-		{
-			"offsets": [
-				70,
-				-120
-			],
-			"indices": [],
-			"fps": 1,
+			"fps": 24,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "knux down"
+			"name": "KNUXDDOWN"
+		},
+		{
+			"offsets": [
+				-10,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "KNUXDRIGHT"
+		},
+		{
+			"offsets": [
+				62,
+				-182
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "KNUXDLEFT"
+		},
+		{
+			"offsets": [
+				-6,
+				-99
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singUP",
+			"loop": true,
+			"name": "KNUXDUP"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/knux",
+	"image": "characters/KNUXD",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "knux",
+	"healthicon": "mom",
 	"flip_x": false,
 	"healthbar_colors": [
-		215,
-		40,
-		80
+		216,
+		85,
+		142
 	],
 	"camera_position": [
-		40,
-		110
+		-20,
+		160
 	],
 	"sing_duration": 4,
-	"scale": 0.9
+	"scale": 1
 }
