@@ -1,0 +1,51 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "Video",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Spong Cutscene video"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "idle",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Spong Cutscene video"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Anti-Crash",
+	"position": [
+		-10,
+		200
+	],
+	"healthicon": "blank",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-390,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 2.2
+}

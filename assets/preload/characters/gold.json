@@ -88,6 +88,9 @@
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fadeOut",
 			"indices": [
 				15,
 				14,
@@ -106,17 +109,14 @@
 				1,
 				0
 			],
-			"fps": 24,
-			"anim": "fadeOut",
-			"loop": false,
 			"name": "Silver Spawn Full"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Lost Silver Assets Gold",
 	"position": [
-		-10,
-		0
+		130,
+		190
 	],
 	"healthicon": "gold",
 	"flip_x": false,
@@ -126,9 +126,9 @@
 		255
 	],
 	"camera_position": [
-		-207,
-		-110
+		-337,
+		-300
 	],
 	"sing_duration": 4,
-	"scale": 1.3
+	"scale": 2.6
 }
