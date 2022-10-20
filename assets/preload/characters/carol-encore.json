@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "carolsheep DanceRight"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "carolsheep DanceLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "carolsheep Crying"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "carolsheep Cheer",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Carol_Encore_Assets",
+	"position": [
+		0,
+		-330
+	],
+	"healthicon": "carolencore",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		102,
+		153
+	],
+	"camera_position": [
+		-120,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

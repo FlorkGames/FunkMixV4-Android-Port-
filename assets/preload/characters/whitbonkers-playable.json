@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				404
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "whitballs Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				412
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "whitballs Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				167,
+				412
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "whitballs Right"
+		},
+		{
+			"offsets": [
+				167,
+				412
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "whitballs Left"
+		},
+		{
+			"offsets": [
+				167,
+				404
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "whitballs downMISS"
+		},
+		{
+			"offsets": [
+				167,
+				412
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "whitballs upMISS"
+		},
+		{
+			"offsets": [
+				167,
+				412
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "whitballs rightMISS"
+		},
+		{
+			"offsets": [
+				167,
+				412
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "whitballs leftMISS"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				167,
+				412
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "whitballs Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				112,
+				432
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cutscene",
+			"indices": [],
+			"name": "whitballs Cutscene"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WhittyCrazy",
+	"position": [
+		-230,
+		-70
+	],
+	"healthicon": "angor",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		20
+	],
+	"camera_position": [
+		200,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				348
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fakesonic Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				348
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fakesonic Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				348
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fakesonic Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				348
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fakesonic Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				348
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fakesonic Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FakeSonic_Assets",
+	"position": [
+		100,
+		120
+	],
+	"healthicon": "fakesonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		123,
+		255
+	],
+	"camera_position": [
+		-140,
+		-170
+	],
+	"sing_duration": 5.8,
+	"scale": 1
+}

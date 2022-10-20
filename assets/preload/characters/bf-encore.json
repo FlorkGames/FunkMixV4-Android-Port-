@@ -2,25 +2,14 @@
 	"animations": [
 		{
 			"offsets": [
-				105,
-				-2
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left instance"
-		},
-		{
-			"offsets": [
-				-7,
-				-56
+				-5,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "down instance"
+			"name": "bfe Down"
 		},
 		{
 			"offsets": [
@@ -29,82 +18,93 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle instance"
-		},
-		{
-			"offsets": [
-				-7,
-				-53
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "miss DOWN instance"
-		},
-		{
-			"offsets": [
-				107,
-				-1
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "miss LEFT instance"
-		},
-		{
-			"offsets": [
-				-24,
-				-24
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "miss RIGHT instance"
-		},
-		{
-			"offsets": [
-				-36,
-				27
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "miss UP instance"
-		},
-		{
-			"offsets": [
-				-28,
-				-27
-			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "right instance"
+			"name": "bfe Right"
 		},
 		{
 			"offsets": [
-				-35,
-				37
+				-5,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "up instance"
+			"name": "bfe Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "bfe leftMiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "bfe downMiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "bfe upMiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "bfe rightMiss"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bfe Left"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bfe Idle"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/ENCORE_BF",
+	"image": "characters/BFEncore_New_Assets",
 	"position": [
-		0,
-		270
+		-110,
+		-230
 	],
 	"healthicon": "bfencore",
 	"flip_x": true,
@@ -114,8 +114,8 @@
 		209
 	],
 	"camera_position": [
-		250,
-		0
+		-10,
+		230
 	],
 	"sing_duration": 4,
 	"scale": 1

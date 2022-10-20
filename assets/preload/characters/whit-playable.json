@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				412
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "whit Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				404
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "whit Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				412
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "whit Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				167,
+				412
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "whit Right"
+		},
+		{
+			"offsets": [
+				167,
+				412
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "whit Left"
+		},
+		{
+			"offsets": [
+				167,
+				404
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "whit downMISS"
+		},
+		{
+			"offsets": [
+				167,
+				412
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "whit upMISS"
+		},
+		{
+			"offsets": [
+				167,
+				412
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "whit rightMISS"
+		},
+		{
+			"offsets": [
+				167,
+				412
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "whit leftMISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WhittySprites",
+	"position": [
+		80,
+		170
+	],
+	"healthicon": "og",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		60
+	],
+	"camera_position": [
+		220,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
