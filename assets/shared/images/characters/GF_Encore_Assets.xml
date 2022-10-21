@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GF_Encore_Assets.png">
+<SubTexture name="gfe DanceLeft0000" x="2023" y="0" width="531" height="608" frameX="-164" frameY="-384" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0001" x="2023" y="0" width="531" height="608" frameX="-164" frameY="-384" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0002" x="1504" y="1246" width="518" height="612" frameX="-174" frameY="-380" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0003" x="1504" y="1246" width="518" height="612" frameX="-174" frameY="-380" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0004" x="1516" y="0" width="507" height="616" frameX="-181" frameY="-376" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0005" x="1516" y="0" width="507" height="616" frameX="-181" frameY="-376" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0006" x="490" y="626" width="498" height="619" frameX="-186" frameY="-373" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0007" x="490" y="626" width="498" height="619" frameX="-186" frameY="-373" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0008" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0009" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0010" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0011" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0012" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceLeft0013" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0000" x="1000" y="1246" width="504" height="613" frameX="-191" frameY="-379" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0001" x="1000" y="1246" width="504" height="613" frameX="-191" frameY="-379" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0002" x="1516" y="616" width="500" height="616" frameX="-192" frameY="-376" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0003" x="1516" y="616" width="500" height="616" frameX="-192" frameY="-376" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0004" x="988" y="626" width="494" height="618" frameX="-194" frameY="-374" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0005" x="988" y="626" width="494" height="618" frameX="-194" frameY="-374" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0006" x="0" y="626" width="490" height="620" frameX="-194" frameY="-372" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0007" x="0" y="626" width="490" height="620" frameX="-194" frameY="-372" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0008" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0009" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0010" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0011" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0012" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe DanceRight0013" x="512" y="0" width="489" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Crying0000" x="499" y="1246" width="501" height="614" frameX="-176" frameY="-378" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Crying0001" x="499" y="1246" width="501" height="614" frameX="-176" frameY="-378" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Crying0002" x="0" y="1246" width="499" height="616" frameX="-181" frameY="-375" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Crying0003" x="0" y="1246" width="499" height="616" frameX="-181" frameY="-375" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Crying0004" x="0" y="1246" width="499" height="616" frameX="-181" frameY="-375" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Crying0005" x="0" y="1246" width="499" height="616" frameX="-181" frameY="-375" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Crying0006" x="0" y="1246" width="499" height="616" frameX="-181" frameY="-375" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Crying0007" x="0" y="1246" width="499" height="616" frameX="-181" frameY="-375" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Cheer0000" x="0" y="0" width="512" height="626" frameX="-194" frameY="-366" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Cheer0001" x="0" y="0" width="512" height="626" frameX="-194" frameY="-366" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Cheer0002" x="1001" y="0" width="515" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Cheer0003" x="1001" y="0" width="515" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Cheer0004" x="1001" y="0" width="515" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Cheer0005" x="1001" y="0" width="515" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Cheer0006" x="1001" y="0" width="515" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+<SubTexture name="gfe Cheer0007" x="1001" y="0" width="515" height="621" frameX="-191" frameY="-370" frameWidth="768" frameHeight="1024" />
+</TextureAtlas>

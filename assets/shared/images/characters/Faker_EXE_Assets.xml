@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<TextureAtlas imagePath="Faker_EXE_Assets.png">
+
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+
+	<!-- http://www.adobe.com/products/animate.html -->
+
+	<SubTexture name="FAKER DOWN instance 10000" x="0" y="0" width="488" height="630"/>
+
+	<SubTexture name="FAKER DOWN instance 10001" x="488" y="0" width="488" height="630"/>
+
+	<SubTexture name="FAKER DOWN instance 10002" x="976" y="0" width="488" height="630"/>
+
+	<SubTexture name="FAKER DOWN instance 10003" x="1464" y="0" width="488" height="630"/>
+
+	<SubTexture name="FAKER DOWN instance 10004" x="1952" y="0" width="488" height="630"/>
+
+	<SubTexture name="FAKER DOWN instance 10005" x="2440" y="0" width="488" height="630"/>
+
+	<SubTexture name="FAKER DOWN instance 10006" x="2928" y="0" width="488" height="630"/>
+
+	<SubTexture name="FAKER DOWN instance 10007" x="3416" y="0" width="488" height="630"/>
+
+	<SubTexture name="FAKER IDLE instance 10000" x="0" y="673" width="455" height="673"/>
+
+	<SubTexture name="FAKER IDLE instance 10001" x="455" y="673" width="455" height="673"/>
+
+	<SubTexture name="FAKER IDLE instance 10002" x="910" y="673" width="455" height="673"/>
+
+	<SubTexture name="FAKER IDLE instance 10003" x="1365" y="673" width="455" height="673"/>
+
+	<SubTexture name="FAKER IDLE instance 10004" x="1820" y="673" width="455" height="673"/>
+
+	<SubTexture name="FAKER LEFT instance 10000" x="2275" y="673" width="729" height="691"/>
+
+	<SubTexture name="FAKER LEFT instance 10001" x="3004" y="673" width="729" height="691"/>
+
+	<SubTexture name="FAKER LEFT instance 10002" x="0" y="1364" width="729" height="691"/>
+
+	<SubTexture name="FAKER LEFT instance 10003" x="729" y="1364" width="729" height="691"/>
+	
+		<SubTexture name="FAKER LEFT instance 10004" x="1458" y="1364" width="729" height="691"/>
+
+	<SubTexture name="FAKER RIGHT instance 10000" x="2187" y="1364" width="632" height="702"/>
+
+	<SubTexture name="FAKER RIGHT instance 10001" x="2819" y="1364" width="632" height="702"/>
+
+	<SubTexture name="FAKER RIGHT instance 10009" x="0" y="2066" width="632" height="702"/>
+
+	<SubTexture name="FAKER RIGHT instance 10010" x="632" y="2066" width="632" height="702"/>
+
+	<SubTexture name="FAKER UP instance 10000" x="1264" y="2066" width="532" height="733"/>
+
+	<SubTexture name="FAKER UP instance 10001" x="1796" y="2066" width="532" height="733"/>
+
+	<SubTexture name="FAKER UP instance 10002" x="2328" y="2066" width="532" height="733"/>
+
+	<SubTexture name="FAKER UP instance 10003" x="2860" y="2066" width="532" height="733"/>
+
+	<SubTexture name="FAKER UP instance 10004" x="3392" y="2066" width="532" height="733"/>
+
+</TextureAtlas>

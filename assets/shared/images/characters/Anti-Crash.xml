@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Anti-Crash.png">
+	<SubTexture name="Spong Cutscene video0000" x="0" y="0" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="Spong Cutscene video0001" x="0" y="0" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="Spong Cutscene video0002" x="0" y="0" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="Spong Cutscene video0003" x="0" y="0" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="Spong Cutscene idle0000" x="0" y="0" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+</TextureAtlas>

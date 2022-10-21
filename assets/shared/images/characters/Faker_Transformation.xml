@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Faker_Transformation.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TransformationDOWN instance 10000" x="10" y="6" width="926" height="741"/>
+	<SubTexture name="TransformationDOWN instance 10001" x="943" y="8" width="924" height="741"/>
+	<SubTexture name="TransformationDOWN instance 10002" x="1872" y="8" width="924" height="741"/>
+	<SubTexture name="TransformationLEFT instance 10000" x="2806" y="5" width="944" height="864"/>
+	<SubTexture name="TransformationLEFT instance 10001" x="2" y="765" width="944" height="864"/>
+	<SubTexture name="TransformationLEFT instance 10002" x="965" y="769" width="944" height="864"/>
+	<SubTexture name="TransformationRIGHT instance 10000" x="2079" y="804" width="794" height="871"/>
+	<SubTexture name="TransformationRIGHT instance 10001" x="2818" y="860" width="791" height="868"/>
+	<SubTexture name="TransformationRIGHT instance 10002" x="8" y="1623" width="804" height="882"/>
+	<SubTexture name="TransformationUP instance 10000" x="932" y="1766" width="806" height="1043"/>
+	<SubTexture name="TransformationUP instance 10001" x="1742" y="1765" width="805" height="1043"/>
+	<SubTexture name="TransformationUP instance 10002" x="2551" y="1765" width="808" height="1043"/>
+</TextureAtlas>

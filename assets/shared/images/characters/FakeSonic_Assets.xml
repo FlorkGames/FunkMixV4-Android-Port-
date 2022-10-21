@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FakeSonic_Assets.png">
+<SubTexture name="fakesonic Idle0000" x="0" y="1316" width="464" height="644" frameX="-211" frameY="-350" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Idle0001" x="0" y="1316" width="464" height="644" frameX="-211" frameY="-350" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Idle0002" x="0" y="671" width="464" height="645" frameX="-211" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Idle0003" x="0" y="671" width="464" height="645" frameX="-211" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Idle0004" x="464" y="671" width="464" height="645" frameX="-211" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Idle0005" x="464" y="671" width="464" height="645" frameX="-211" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Idle0006" x="464" y="671" width="464" height="645" frameX="-211" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Idle0007" x="464" y="671" width="464" height="645" frameX="-211" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Idle0008" x="464" y="671" width="464" height="645" frameX="-211" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Idle0009" x="464" y="671" width="464" height="645" frameX="-211" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Idle0010" x="464" y="671" width="464" height="645" frameX="-211" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Idle0011" x="464" y="671" width="464" height="645" frameX="-211" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Left0000" x="928" y="671" width="441" height="645" frameX="-190" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Left0001" x="928" y="671" width="441" height="645" frameX="-190" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Left0002" x="1778" y="0" width="441" height="645" frameX="-198" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Left0003" x="1778" y="0" width="441" height="645" frameX="-198" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Left0004" x="1778" y="0" width="441" height="645" frameX="-198" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Left0005" x="1778" y="0" width="441" height="645" frameX="-198" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Left0006" x="1778" y="0" width="441" height="645" frameX="-198" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Left0007" x="1778" y="0" width="441" height="645" frameX="-198" frameY="-349" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Right0000" x="885" y="0" width="428" height="668" frameX="-218" frameY="-326" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Right0001" x="885" y="0" width="428" height="668" frameX="-218" frameY="-326" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Right0002" x="465" y="0" width="420" height="669" frameX="-217" frameY="-325" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Right0003" x="465" y="0" width="420" height="669" frameX="-217" frameY="-325" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Right0004" x="465" y="0" width="420" height="669" frameX="-217" frameY="-325" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Right0005" x="465" y="0" width="420" height="669" frameX="-217" frameY="-325" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Right0006" x="465" y="0" width="420" height="669" frameX="-217" frameY="-325" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Right0007" x="465" y="0" width="420" height="669" frameX="-217" frameY="-325" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Up0000" x="0" y="0" width="465" height="671" frameX="-213" frameY="-323" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Up0001" x="0" y="0" width="465" height="671" frameX="-213" frameY="-323" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Up0002" x="1313" y="0" width="465" height="663" frameX="-213" frameY="-331" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Up0003" x="1313" y="0" width="465" height="663" frameX="-213" frameY="-331" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Up0004" x="1313" y="0" width="465" height="663" frameX="-213" frameY="-331" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Up0005" x="1313" y="0" width="465" height="663" frameX="-213" frameY="-331" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Up0006" x="1313" y="0" width="465" height="663" frameX="-213" frameY="-331" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Up0007" x="1313" y="0" width="465" height="663" frameX="-213" frameY="-331" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Down0000" x="917" y="1316" width="453" height="619" frameX="-214" frameY="-375" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Down0001" x="917" y="1316" width="453" height="619" frameX="-214" frameY="-375" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Down0002" x="464" y="1316" width="453" height="626" frameX="-214" frameY="-368" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Down0003" x="464" y="1316" width="453" height="626" frameX="-214" frameY="-368" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Down0004" x="464" y="1316" width="453" height="626" frameX="-214" frameY="-368" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Down0005" x="464" y="1316" width="453" height="626" frameX="-214" frameY="-368" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Down0006" x="464" y="1316" width="453" height="626" frameX="-214" frameY="-368" frameWidth="768" frameHeight="1024" />
+<SubTexture name="fakesonic Down0007" x="464" y="1316" width="453" height="626" frameX="-214" frameY="-368" frameWidth="768" frameHeight="1024" />
+</TextureAtlas>

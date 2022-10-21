@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="BFConfused.png" width="730" height="250">
+  <SubTexture name="bf gf look instance 10000" x="220.5" y="0"  width="107.5" height="125" frameX="-5" frameY="0.5" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf gf look instance 10002" x="111" y="0"  width="109.5" height="125.5" frameX="-5" frameY="0" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf gf look instance 10004" x="0" y="0"  width="111" height="125.5" frameX="-5" frameY="0" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf gf look instance 10006" x="0" y="125.5"  width="110.5" height="124.5" frameX="-5" frameY="-1" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf gf look instance 10008" x="110.5" y="125.5"  width="110.5" height="124" frameX="-5" frameY="-1.5" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf sitting still instance 10000" x="221" y="125"  width="103.5" height="119.5" frameX="-4" frameY="-6" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf sitting still instance 10002" x="428" y="119.5"  width="103" height="119.5" frameX="-4.5" frameY="-6" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf sitting still instance 10004" x="431.5" y="0"  width="102.5" height="119.5" frameX="-5" frameY="-6" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf sitting still instance 10006" x="324.5" y="125"  width="103.5" height="119.5" frameX="-5" frameY="-6" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf sitting still instance 10008" x="328" y="0"  width="103.5" height="119.5" frameX="-5" frameY="-6" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf cloud look instance 10000" x="632.5" y="0"  width="97" height="117" frameX="-2" frameY="-8.5" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf cloud look instance 10002" x="534" y="0"  width="98.5" height="119.5" frameX="0.5" frameY="-6" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf cloud look instance 10004" x="630" y="119.5"  width="99" height="118.5" frameX="0" frameY="-7" frameWidth="116" frameHeight="125.5"/>
+  <SubTexture name="bf cloud look instance 10006" x="531" y="119.5"  width="99" height="119.5" frameX="0" frameY="-6" frameWidth="116" frameHeight="125.5"/>
+</TextureAtlas>
