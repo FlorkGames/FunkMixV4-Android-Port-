@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SONIC_X.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="X_Down instance 10000" x="5" y="5" width="729" height="651"/>
+	<SubTexture name="X_Down instance 10001" x="744" y="5" width="729" height="651"/>
+	<SubTexture name="X_Idle instance 10000" x="1483" y="5" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10001" x="2118" y="5" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10002" x="1275" y="710" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10003" x="1910" y="710" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10004" x="5" y="1415" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10005" x="640" y="1415" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10006" x="1275" y="1415" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10007" x="1910" y="1415" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10008" x="5" y="2120" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10009" x="640" y="2120" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10010" x="5" y="710" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10011" x="640" y="710" width="625" height="695"/>
+	<SubTexture name="X_Left instance 10000" x="1275" y="2120" width="686" height="688"/>
+	<SubTexture name="X_Left instance 10001" x="1971" y="2120" width="686" height="688"/>
+	<SubTexture name="X_Right instance 10000" x="2753" y="5" width="672" height="712"/>
+	<SubTexture name="X_Right instance 10001" x="2545" y="727" width="672" height="712"/>
+	<SubTexture name="X_Up instance 10000" x="2667" y="1449" width="642" height="783"/>
+	<SubTexture name="X_Up instance 10001" x="2667" y="2242" width="642" height="783"/>
+</TextureAtlas>

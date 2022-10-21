@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Skill Issue.png">
+	<SubTexture name="die stonk0000" x="0" y="0" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0001" x="644" y="0" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0002" x="1288" y="0" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0003" x="1932" y="0" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0004" x="2576" y="0" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0005" x="0" y="364" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0006" x="644" y="364" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0007" x="1288" y="364" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0008" x="1932" y="364" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0009" x="2576" y="364" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0010" x="0" y="728" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0011" x="644" y="728" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0012" x="1288" y="728" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0013" x="1932" y="728" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0014" x="2576" y="728" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0015" x="0" y="1092" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0016" x="644" y="1092" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0017" x="1288" y="1092" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0018" x="1932" y="1092" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0019" x="2576" y="1092" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0020" x="0" y="1456" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0021" x="644" y="1456" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0022" x="1288" y="1456" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0023" x="1932" y="1456" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0024" x="2576" y="1456" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0025" x="0" y="1820" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0026" x="644" y="1820" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0027" x="1288" y="1820" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+	<SubTexture name="die stonk0028" x="1932" y="1820" width="644" height="364" frameX="0" frameY="0" frameWidth="644" frameHeight="364"/>
+</TextureAtlas>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonic fw.png">
+<SubTexture name="Sonic down0000" x="539" y="246" width="180" height="245" frameX="-13" frameY="-11" frameWidth="196" frameHeight="261" />
+<SubTexture name="Sonic down0001" x="539" y="246" width="180" height="245" frameX="-13" frameY="-11" frameWidth="196" frameHeight="261" />
+<SubTexture name="Sonic down0002" x="180" y="0" width="180" height="247" frameX="-13" frameY="-7" frameWidth="196" frameHeight="261" />
+<SubTexture name="Sonic down0003" x="180" y="0" width="180" height="247" frameX="-13" frameY="-7" frameWidth="196" frameHeight="261" />
+<SubTexture name="Sonic idle0000" x="362" y="495" width="179" height="244" frameX="-8" frameY="-7" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0001" x="362" y="495" width="179" height="244" frameX="-8" frameY="-7" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0002" x="745" y="0" width="179" height="243" frameX="-11" frameY="-6" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0003" x="745" y="0" width="179" height="243" frameX="-11" frameY="-6" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0004" x="541" y="495" width="179" height="244" frameX="-14" frameY="-5" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0005" x="541" y="495" width="179" height="244" frameX="-14" frameY="-5" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0006" x="0" y="495" width="181" height="245" frameX="-14" frameY="-3" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0007" x="181" y="495" width="181" height="245" frameX="-14" frameY="-3" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0008" x="210" y="248" width="182" height="246" frameX="-14" frameY="-2" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0009" x="210" y="248" width="182" height="246" frameX="-14" frameY="-2" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0010" x="210" y="248" width="182" height="246" frameX="-14" frameY="-2" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0011" x="210" y="248" width="182" height="246" frameX="-14" frameY="-2" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0012" x="210" y="248" width="182" height="246" frameX="-14" frameY="-2" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic idle0013" x="210" y="248" width="182" height="246" frameX="-14" frameY="-2" frameWidth="201" frameHeight="253" />
+<SubTexture name="Sonic left0000" x="360" y="0" width="179" height="247" frameX="0" frameY="-1" frameWidth="184" frameHeight="248" />
+<SubTexture name="Sonic left0001" x="360" y="0" width="179" height="247" frameX="0" frameY="-1" frameWidth="184" frameHeight="248" />
+<SubTexture name="Sonic left0002" x="0" y="0" width="180" height="248" frameX="-3" frameY="0" frameWidth="184" frameHeight="248" />
+<SubTexture name="Sonic left0003" x="0" y="0" width="180" height="248" frameX="-3" frameY="0" frameWidth="184" frameHeight="248" />
+<SubTexture name="Sonic right0000" x="0" y="248" width="210" height="247" frameX="0" frameY="0" frameWidth="291" frameHeight="398" />
+<SubTexture name="Sonic right0001" x="0" y="248" width="210" height="247" frameX="0" frameY="0" frameWidth="291" frameHeight="398" />
+<SubTexture name="Sonic right0002" x="539" y="0" width="206" height="246" frameX="0" frameY="0" frameWidth="210" frameHeight="246" />
+<SubTexture name="Sonic right0003" x="539" y="0" width="206" height="246" frameX="0" frameY="0" frameWidth="210" frameHeight="246" />
+<SubTexture name="Sonic up0000" x="924" y="0" width="193" height="240" frameX="0" frameY="0" frameWidth="193" frameHeight="240" />
+<SubTexture name="Sonic up0001" x="924" y="0" width="193" height="240" frameX="0" frameY="0" frameWidth="193" frameHeight="240" />
+<SubTexture name="Sonic up0002" x="924" y="240" width="191" height="235" frameX="0" frameY="-5" frameWidth="193" frameHeight="240" />
+<SubTexture name="Sonic up0003" x="924" y="240" width="191" height="235" frameX="0" frameY="-5" frameWidth="193" frameHeight="240" />
+</TextureAtlas>
